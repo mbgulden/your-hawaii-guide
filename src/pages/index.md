@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Your Hawaii Guide
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+image: /images/uploads/laie-point_11.jpg
+heading: Great tours to enjoy responsibly
+subheading: Support sustainable tourism while having a blast
 mainpitch:
   title: Why Kaldi
   description: >
