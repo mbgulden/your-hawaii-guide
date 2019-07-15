@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Your Hawaii Guide
-image: /images/uploads/laie-point_11.jpg
+image: /static/img/laie-point_11.jpg
 heading: Great tours to enjoy responsibly.
 subheading: Support sustainable tourism while having a blast
 mainpitch:
@@ -18,14 +18,14 @@ description: >-
   amazing adventures of your own.
 intro:
   blurbs:
-    - image: /images/uploads/guides.png
+    - image: /static/img/guides.png
       text: >
         We offer tours and activities sourced directly from local experts and
         long-time business owners. We’re proud to offer a variety of tours and
         activities that are both sustainable for the environment and for local
         communities. Check our activites or contact us directly for current
         availability.
-    - image: /images/uploads/self-guided-tours.png
+    - image: /static/img/kayak.png
       text: >
         We offer a small, but carefully curated selection of tours and
         activities for every taste and experience level. No matter if you
