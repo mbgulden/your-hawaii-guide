@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Your Hawaii Guide
 image: /images/uploads/laie-point_11.jpg
-heading: Great tours to enjoy responsibly
+heading: Great tours to enjoy responsibly.
 subheading: Support sustainable tourism while having a blast
 mainpitch:
   title: Why Us
