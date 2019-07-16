@@ -31,20 +31,18 @@ intro:
         activities for every taste and experience level. No matter if you
         venture on your own or are a beginner looking for a guide, you’ll find
         some great tips on our site that will get you what you need.
-    - image: /img/tutorials.png
+    - image: /static/img/app.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Would you love a great Hawaii adventure, but don't know where to start?
+        Bought a fancy new kayak but have no clue how to use it or where to go?
+        Don't worry, we’re here to help. You can check out our custom guides to
+        learn anything you want to know about kayaking in Hawaii and all that.
+        Email us or call us for details.
+    - image: /static/img/rentals.png
+      text: >-
+        We believe that sharing our aloha has the power to bring people
+        together. That’s why we decided to create our helpful website where you
+        can learn about Hawaii and all that it has to offer. 
   heading: What we offer
   description: >-
     Hawaii is the ultimate spot for adventure lovers who want to learn about the
@@ -52,12 +50,13 @@ intro:
     seriously and we’re glad to pass that knowledge on to you so you can have
     amazing adventures of your own.
 main:
-  heading: Great coffee with no compromises
+  heading: Great tours with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    We hold our tour operators to the highest standards from the customer
+    service to tour experience. That’s why we’re meticulous and transparent
+    about each vendor or activity we suggest. We personally visit each tour
+    operator and activity location to make sure the tours and activities are an
+    optimal fit for you.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
